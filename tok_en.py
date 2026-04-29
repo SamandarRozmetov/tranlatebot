@@ -1,1 +1,1 @@
-tk = "token yozing"
+tk = "bu yerga token yozing"
